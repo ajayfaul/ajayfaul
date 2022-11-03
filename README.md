@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=ajayfaul&theme=dracula&hide_border=true" alt="mystreak"/>
 </p>
+
+<p align="center">
+    <img class="img" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+ </p>
