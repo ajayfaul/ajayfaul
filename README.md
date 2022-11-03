@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: muhammadfajarm@gmail.com
 
  <div align="center"><h2>My Github Stats 🌟</div>
-[![Ajayfaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayfaul&count_private=true)](https://github.com/ajayfaul/github-readme-stats)
+  
+[![Ajayfaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayfaul&count_private=true&show_icons=true)](https://github.com/ajayfaul/github-readme-stats)
