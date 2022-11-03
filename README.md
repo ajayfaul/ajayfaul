@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 
 -->
-[![Ajayfaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayfaul)](https://github.com/ajayfaul/github-readme-stats)
 
 - 🔭 I’m currently working on portfolio website and final project
 - 🌱 I’m currently learning fullstack javascript
@@ -16,3 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: muhammadfajarm@gmail.com
 
  <div align="center"><h2>My Github Stats 🌟</div>
+[![Ajayfaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayfaul&count_private=true)](https://github.com/ajayfaul/github-readme-stats)
