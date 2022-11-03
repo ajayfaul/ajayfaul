@@ -1,4 +1,6 @@
-<div align="center"><h1>Hi there 👋</div>
+<!-- <div align="center"><h1>Hi there 👋</div> -->
+
+![Header](header.png)
 
 <!--
 **ajayfaul/ajayfaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
