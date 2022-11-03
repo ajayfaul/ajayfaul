@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 
  <div align="center"><h2>My Github Stats 🌟</div>
   
-[![Ajayfaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayfaul&count_private=true&show_icons=true)](https://github.com/ajayfaul/github-readme-stats)
+[![Ajayfaul's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ajayfaul&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ajayfaul/github-readme-stats#gh-dark-mode-only)
+[![Ajayfaul's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ajayfaul&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ajayfaul/github-readme-stats#gh-light-mode-only)
